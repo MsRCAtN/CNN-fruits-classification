@@ -10,7 +10,7 @@ The dataset comes from fruit-360[https://www.kaggle.com/datasets/moltean/fruits]
 Note if you wan to retrain the model, dataset should be placed into a closet folder named `input` in root directory or you can change the file path encoded in source code.
 
 ```bash
-git clone https://github.com/MsRCAtN/fruit-360-recognition-cnn.git && cd fruit-360-recognition-cnn
+git clone https://github.com/MsRCAtN/CNN-fruits-classification.git && cd fruit-360-recognition-cnn
 pip3 install -r requirements.txt
 cd src && jupyter notebook init.ipynb 
 ```
