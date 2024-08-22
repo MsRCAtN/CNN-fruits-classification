@@ -2,7 +2,7 @@
 
 ---
 This repo contains an implementation of fruits classification based on Convolutional Neural Network using Keras, visualizing by scikit-learn, matplot for plotting accuracy curves and seaborn for plotting confusion matrixes, interactiving by jupyter notebook.
-The dataset comes from fruit-360[https://www.kaggle.com/datasets/moltean/fruits]. Special thanks for it.
+The dataset comes from fruit-360[https://www.kaggle.com/datasets/moltean/fruits]. Special thanks to it.
 
 ## Usage
 
